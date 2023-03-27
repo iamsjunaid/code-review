@@ -1,0 +1,51 @@
+body{
+    background: url("./images/chris-anderson-8VPSh4Wj61Q-unsplash.jpg");
+    /* background: url("https://images.unsplash.com/photo-1566305977571-5666677c6e98?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=345&q=80"); */
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background-size: cover;
+    font-size: 16px;
+    color: #fff;
+}
+
+
+h1{
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 50px;
+    margin: 50px;
+    background-color: rgb(16, 26, 26);
+    border-radius: 5px 5px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900px;
+}
+#main{
+    text-align: center;
+    /* background-color: rgb(16, 26, 26); */
+}
+#image{
+    display: block;
+    /* margin-left: auto;
+    margin-right: auto; */
+    /* max-width: 100%; */
+    /* height: auto; */
+    width: 80%;
+    margin: auto;
+    
+}
+ul{
+    display: inline-block;
+}
+
+ul li{
+    list-style: none;
+}
+
+footer{
+    background-color: rgb(16, 26, 26);
+    color: #fff;
+    padding: 10px 10px;
+    margin-bottom: 0px;
+    border-radius: 5px 5px;
+}
